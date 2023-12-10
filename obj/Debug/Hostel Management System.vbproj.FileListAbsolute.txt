@@ -1,0 +1,195 @@
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\Hostel Management System\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\Hostel Management System\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\BCA Project\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\BCA Project\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\BCA Project\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\BCA Project\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\BCA Project\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+D:\BCA Project\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+D:\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmexpenditure.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewcomplaints.resources
+D:\Hostel Management System\obj\Debug\Hostel_Management_System.frmmessbill.resources
+D:\hostel new\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\hostel new\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\hostel new\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\hostel new\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\hostel new\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\hostel new\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\hostel new\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\hostel new\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\hostel new\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\hostel new\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmexpenditure.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmmessbill.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewcomplaints.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmleave.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmouting.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmemployee.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmempsal.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmreceipts.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmrent.resources
+D:\hostel new\Hostel Management System\obj\Debug\Hostel_Management_System.frmoutstanding.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Interop.ADODB.dll
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel Management System.exe
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel Management System.xml
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel Management System.pdb
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\bin\Debug\Hostel Management System.exe
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\bin\Debug\Hostel Management System.pdb
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\bin\Debug\Hostel Management System.xml
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\bin\Debug\Interop.ADODB.dll
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmemployee.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmempsal.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmexpenditure.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmleave.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmmessbill.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmouting.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmoutstanding.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmreceipts.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmrent.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewcomplaints.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+C:\Users\dell\Desktop\new tutorial video\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+E:\Hostel Management System\obj\Debug\Interop.ADODB.dll
+E:\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+E:\Hostel Management System\obj\Debug\Hostel Management System.exe
+E:\Hostel Management System\obj\Debug\Hostel Management System.xml
+E:\Hostel Management System\obj\Debug\Hostel Management System.pdb
+E:\Hostel Management System\bin\Debug\Hostel Management System.exe
+E:\Hostel Management System\bin\Debug\Hostel Management System.pdb
+E:\Hostel Management System\bin\Debug\Hostel Management System.xml
+E:\Hostel Management System\bin\Debug\Interop.ADODB.dll
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmemployee.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmempsal.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmexpenditure.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmleave.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmmessbill.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmouting.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmoutstanding.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmreceipts.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmrent.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewcomplaints.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+E:\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+E:\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+F:\Hostel Management System\obj\Debug\Interop.ADODB.dll
+F:\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+F:\Hostel Management System\obj\Debug\Hostel Management System.exe
+F:\Hostel Management System\obj\Debug\Hostel Management System.xml
+F:\Hostel Management System\obj\Debug\Hostel Management System.pdb
+F:\Hostel Management System\bin\Debug\Hostel Management System.exe
+F:\Hostel Management System\bin\Debug\Hostel Management System.pdb
+F:\Hostel Management System\bin\Debug\Hostel Management System.xml
+F:\Hostel Management System\bin\Debug\Interop.ADODB.dll
+F:\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.complaints.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmemployee.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmempsal.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmexpenditure.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmleave.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmmessbill.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmouting.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmoutstanding.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmreceipts.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmrent.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmroomallotment.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmrooms.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewcomplaints.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewstudents.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmviewvistors.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmvisitor.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+F:\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+F:\Hostel Management System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Hostel Management System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\abdullahi setup\ibrahim toheeb\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\abdullahi setup\ibrahim toheeb\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\abdullahi setup\ibrahim toheeb\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\abdullahi setup\ibrahim toheeb\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\abdullahi setup\ibrahim toheeb\Hostel Management System\obj\Debug\Hostel Management System.pdb

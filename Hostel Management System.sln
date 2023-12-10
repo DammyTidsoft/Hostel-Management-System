@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hostel Management System", "Hostel Management System.vbproj", "{36BB5524-D7A8-44FE-9860-42F91CDA88AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BB5524-D7A8-44FE-9860-42F91CDA88AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BB5524-D7A8-44FE-9860-42F91CDA88AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BB5524-D7A8-44FE-9860-42F91CDA88AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BB5524-D7A8-44FE-9860-42F91CDA88AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
